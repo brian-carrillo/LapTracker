@@ -1,0 +1,4 @@
+Future Work
+
+Switch from using the arduino library to the Teensy library. This may allow us to increases the data transfer
+rate for two wire communication

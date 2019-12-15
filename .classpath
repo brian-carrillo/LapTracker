@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LapTracker/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jssc.jar"/>
+	<classpathentry kind="lib" path="lib/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="lib/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="lib/javacv-cppjars/ffmpeg-2.1.1-windows-x86_64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="laptrainer/lib/javacv-cppjars"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="javacv-1.1-bin/javacv-bin/ffmpeg-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="javacv-1.1-bin/javacv-bin/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="javacv-1.1-bin/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="javacv-1.1-bin/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="javacv-1.1-bin/javacv-bin/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="javacv-1.1-bin/javacv-bin/opencv.jar"/>
+	<classpathentry kind="lib" path="lib/jinput.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
